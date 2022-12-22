@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "600444566354",
+    "project_id": "finalexam-1b0d9",
+    "storage_bucket": "finalexam-1b0d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600444566354:android:1cdf68ac108d6b6bc0588b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_file_sharing_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600444566354-t5tr29h0qcf1f0uauigpk01c1mktq9hm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3n5w4oKEMIPF6iqPifXx60Bh3GbOsvHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600444566354-t5tr29h0qcf1f0uauigpk01c1mktq9hm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
